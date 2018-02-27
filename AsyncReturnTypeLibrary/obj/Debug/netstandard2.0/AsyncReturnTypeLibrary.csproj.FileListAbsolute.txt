@@ -1,0 +1,8 @@
+d:\Workspace\dotnetcore\testLab\AsyncReturnTypeLibrary\bin\Debug\netstandard2.0\AsyncReturnTypeLibrary.deps.json
+d:\Workspace\dotnetcore\testLab\AsyncReturnTypeLibrary\bin\Debug\netstandard2.0\AsyncReturnTypeLibrary.dll
+d:\Workspace\dotnetcore\testLab\AsyncReturnTypeLibrary\bin\Debug\netstandard2.0\AsyncReturnTypeLibrary.pdb
+d:\Workspace\dotnetcore\testLab\AsyncReturnTypeLibrary\obj\Debug\netstandard2.0\AsyncReturnTypeLibrary.csproj.CoreCompileInputs.cache
+d:\Workspace\dotnetcore\testLab\AsyncReturnTypeLibrary\obj\Debug\netstandard2.0\AsyncReturnTypeLibrary.AssemblyInfoInputs.cache
+d:\Workspace\dotnetcore\testLab\AsyncReturnTypeLibrary\obj\Debug\netstandard2.0\AsyncReturnTypeLibrary.AssemblyInfo.cs
+d:\Workspace\dotnetcore\testLab\AsyncReturnTypeLibrary\obj\Debug\netstandard2.0\AsyncReturnTypeLibrary.dll
+d:\Workspace\dotnetcore\testLab\AsyncReturnTypeLibrary\obj\Debug\netstandard2.0\AsyncReturnTypeLibrary.pdb
